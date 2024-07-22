@@ -7,7 +7,7 @@ const Switch = ({ active, handleToggle }: IProps) => {
   return (
     <div
       className={`w-7 h-5 flex items-center rounded-full border-darkGray p-0.5 cursor-pointer ${
-        active ? "bg-purple" : "bg-darkGray-300 border-3"
+        active ? "bg-purple" : "bg-darkGray-300 border-[3px]"
       }`}
       onClick={() => handleToggle()}
     >

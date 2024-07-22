@@ -1,4 +1,3 @@
-import "./App.css";
 import TurnKey from "./components/TurnKey.tsx";
 
 function App() {

@@ -25,7 +25,7 @@ export default function Partner({
   return (
     <>
       <div
-        className={`flex justify-between items-center w-full md:w-280px px-5 py-4 rounded-3xl font-sf-pro border-2 ${active ? "border border-purple" : "border-gray"} transition-all duration-700 relative`}
+        className={`flex justify-between items-center w-full md:w-[280px] px-5 py-4 rounded-3xl font-sf-pro border-2 ${active ? "border border-purple" : "border-gray"} transition-all duration-700 relative`}
       >
         <div className="flex gap-4">
           <div

@@ -134,7 +134,7 @@ export default function TurnKey() {
                 />
               ))}
         </div>
-        <div className="md:w-380px w-full rounded-3xl border-2 bg-whitePurple border-purple relative mt-5 z-20">
+        <div className="md:w-[380px] w-full rounded-3xl border-2 bg-whitePurple border-purple relative mt-5 z-20">
           <div className="flex flex-col gap-4 relative -top-8 ">
             <img
               src="/user.jpg"
